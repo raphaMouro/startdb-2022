@@ -1,5 +1,14 @@
 # O desafio da forca
 
+## Resposta ao desafio do processo seletivo 'StartDb', um programa da DB Server.
+
+### O arquivo atualizado com a lógica aplicada por mim se encontra em 'desafio/forca.js'.
+
+
+###### Abaixo segue a descrição das regras e do enunciado detalhado do desafio.
+Raphael Moraes
+
+*****************************************************************************************
 Olá! Você está prestes a iniciar o nosso desafio para a seleção do StartDB. Se você chegou aqui sem conhecer o StartDB, você pode encontrar mais informações [neste link](https://start.dbserver.com.br/). O desafio desse ano será desenvolver as regras de um jogo da forca. 
 Você conhece o jogo da forca?
 
